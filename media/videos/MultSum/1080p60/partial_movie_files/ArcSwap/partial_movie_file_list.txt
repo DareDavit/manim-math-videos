@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/davitbadalyan/manimations/media/videos/MultSum/1080p60/partial_movie_files/ArcSwap/3977891868_3394601354_223132457.mp4'
+file 'file:/Users/davitbadalyan/manimations/media/videos/MultSum/1080p60/partial_movie_files/ArcSwap/2852726489_1839128356_356295764.mp4'
+file 'file:/Users/davitbadalyan/manimations/media/videos/MultSum/1080p60/partial_movie_files/ArcSwap/2852726489_1915563457_3624221196.mp4'
+file 'file:/Users/davitbadalyan/manimations/media/videos/MultSum/1080p60/partial_movie_files/ArcSwap/2852726489_3190663341_1228754454.mp4'
+file 'file:/Users/davitbadalyan/manimations/media/videos/MultSum/1080p60/partial_movie_files/ArcSwap/2852726489_1839128356_1906697733.mp4'
